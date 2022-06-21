@@ -1,0 +1,41 @@
+<div class="row py-5">
+    <div class="col-md-9">
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>IsAvailabe</th>
+        <th>Image</th>
+        <th>SeasonID</th>
+        <th>Action</th>
+    </tr>
+
+    <tr *ngFor="let f of vegetabledata">
+        <td>{{f.id}}</td>
+        <td>{{f.name}}</td>
+        <td>{{f.isAvailable}}</td>     
+        <td><img src="{{f.image}}" width="100" alt="Thumb preview..."></td>
+        <td>{{f.seasonID}}</td>
+       
+        <td>
+            <button (click)="Update(f)" class="btn btn-primary">Update</button> &nbsp;
+            <button (click)="delete(f.id)"  class="btn btn-secondary" >Delete </button>
+        </td>
+    </tr>
+
+</table>
+</div>
+
+<div class="col-md-3">
+<form #f="ngForm" (ngSubmit)="submit(f)">
+    ID: <input type="number" name="id" [(ngModel)]="vegetable.id" class="form-control"> <br/>
+    Name: <input type="text" name="name" [(ngModel)]="vegetable.name" class="form-control"> <br/>
+    IsNew: <input type="checkbox" name="isnew" [(ngModel)]="vegetable.isAvailable" class="form-check"> <br/>
+    Image <input class="form-control" type="file" name="image" 
+            (change)="onFileChange($event)" accept="image/*"/>
+            <img src="{{vegetable.image}}" width="100" alt="Not Available"> <br/>
+    SeasonID: <input type="number" name="seasonid" [(ngModel)]="vegetable.seasonID" class="form-control"> <br/>
+   <button type="submit" class="btn btn-info"> Submit</button>
+</form>
+</div>
+</div>

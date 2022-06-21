@@ -1,0 +1,49 @@
+<div class="row py-5">
+ <div class="col-md-9">
+    <table class="table table-bordered">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>IsNew</th>
+            <th>PurchaseDate</th>
+            <th>Image</th>
+            <th>SeasonID</th>
+            <th>SupplierID</th>
+            <th>Action</th>
+        </tr>
+    
+        <tr *ngFor="let f of fruitdata">
+            <td>{{f.id}}</td>
+            <td>{{f.name}}</td>
+            <td>{{f.isNew}}</td>
+            <td>{{f.purchaseDate|date}}</td>
+            <td><img src="{{f.image}}" width="100" alt="Not Available"></td>
+            <td>{{f.seasonID}}</td>
+            <td>{{f.supplierID}}</td>
+            <td>
+                <button (click)="Update(f)" class="btn btn-primary">Update</button> &nbsp;
+                <button (click)="delete(f.id)"  class="btn btn-secondary">Delete </button>
+            </td>
+        </tr>
+    
+    </table>
+ </div>
+    
+    <div class="col-md-3">
+           
+    <form #f="ngForm" (ngSubmit)="submit(f)">
+        ID: <input type="number" name="id" [(ngModel)]="fruit.id"  class="form-control"> <br/>
+        Name: <input type="text" name="name" [(ngModel)]="fruit.name" class="form-control"> <br/>
+        IsNew: <input type="checkbox" name="isnew" [(ngModel)]="fruit.isNew" class="form-check"> <br/>
+        PurchaseDate: <input type="date" name="purchasedate" [(ngModel)]="fruit.purchaseDate" class="form-control"> <br/>
+        
+        Image : <input class="form-control" type="file" name="image" 
+        (change)="onFileChange($event)" accept="image/*"/>
+      <img src="{{fruit.image}}" width="100" alt="Not Available"> <br/>
+
+        SeasonID: <input type="number" name="seasonid" [(ngModel)]="fruit.seasonID" class="form-control"> <br/>
+        SupplierID: <input type="number" name="supplierid" [(ngModel)]="fruit.supplierID"class="form-control"> <br/><br/>
+       <button type="submit" class="btn btn-info"> Submit</button>
+    </form>
+    </div>
+</div>

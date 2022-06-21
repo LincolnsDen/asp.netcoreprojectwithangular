@@ -1,0 +1,167 @@
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\appsettings.Development.json
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\appsettings.json
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.exe
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.deps.json
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.runtimeconfig.json
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.runtimeconfig.dev.json
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\ref\AngularMonthlyProject.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.pdb
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.AssemblyReference.cache
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.AssemblyInfoInputs.cache
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.AssemblyInfo.cs
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.CoreCompileInputs.cache
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.MvcApplicationPartsAssemblyInfo.cache
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\scopedcss\bundle\AngularMonthlyProject.styles.css
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\staticwebassets\AngularMonthlyProject.StaticWebAssets.Manifest.cache
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.RazorTargetAssemblyInfo.cache
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.CopyComplete
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\ref\AngularMonthlyProject.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.pdb
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.genruntimeconfig.cache
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Humanizer.dll
+E:\1265496\AngularMonthlyProject\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\appsettings.json
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.exe
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.deps.json
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.runtimeconfig.json
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.runtimeconfig.dev.json
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\ref\AngularMonthlyProject.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.pdb
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.AssemblyReference.cache
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.AssemblyInfoInputs.cache
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.AssemblyInfo.cs
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.CoreCompileInputs.cache
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\staticwebassets\AngularMonthlyProject.StaticWebAssets.Manifest.cache
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\staticwebassets\AngularMonthlyProject.StaticWebAssets.xml
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\scopedcss\bundle\AngularMonthlyProject.styles.css
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.RazorTargetAssemblyInfo.cache
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.CopyComplete
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\ref\AngularMonthlyProject.dll
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.pdb
+C:\Users\Arif-Home\Downloads\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.genruntimeconfig.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\appsettings.Development.json
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\appsettings.json
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.StaticWebAssets.xml
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.exe
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.deps.json
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.runtimeconfig.json
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.runtimeconfig.dev.json
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\AngularMonthlyProject.pdb
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Humanizer.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.AssemblyInfoInputs.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.AssemblyInfo.cs
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.CoreCompileInputs.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.MvcApplicationPartsAssemblyInfo.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\scopedcss\bundle\AngularMonthlyProject.styles.css
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\staticwebassets\AngularMonthlyProject.StaticWebAssets.Manifest.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.RazorTargetAssemblyInfo.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.CopyComplete
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\ref\AngularMonthlyProject.dll
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.pdb
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.genruntimeconfig.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\AngularMonthlyProject.csproj.AssemblyReference.cache
+E:\1265496\Home 4\AngularMonthlyProjectTSP2\AngularMonthlyProject\obj\Debug\net5.0\refint\AngularMonthlyProject.dll
